@@ -44,9 +44,9 @@
   </a>
   <a href="https://github.com/RanitManik">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=14" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14&hide=other" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=14&hide=other" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats&hide=other" />
     </picture>
   </a>
 </div>
