@@ -8,7 +8,7 @@
 - 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).  
 - 📚 Proficient in **Full Stack Development**.  
 - 🌐 Visit my [**Portfolio**](https://ranitmanik.online) to explore projects and achievements.
-- 📧 Reach me via [**Email**](mailto:ranitmanik.dev@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
+- 📧 Reach me via [**Email**](mailto:ranit.manik@icloud.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
 - 📍 Based in **Mecheda, West Bengal, India**.  
 
 <hr>
