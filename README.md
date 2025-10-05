@@ -54,18 +54,18 @@
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <div width="100%" align="center">
-  <a href="https://github.com/RanitManik/CodeSnap">
+ <a href="https://github.com/ruma-ui/ui">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&show_owner=true&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=CodeSnap&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=ruma-ui&repo=ui&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=ruma-ui&repo=ui&layout=compact&show_owner=true&description_lines_count=2" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=ruma-ui&repo=ui&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
     </picture>
   </a>
-  <a href="https://github.com/RanitManik/Bookify">
+  <a href="https://github.com/RanitManik/lucide-note">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact&show_owner=true&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=Bookify&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&show_owner=true&description_lines_count=2" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
     </picture>
   </a>
 </div>
