@@ -73,11 +73,11 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div width="100%" align="center">
-  <a href="https://github-trophy.vercel.app">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-bg=false&margin-w=4&row=1" />
-      <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&no-bg=false&margin-w=4&row=1" />
+      <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" />
     </picture>
   <a/>
 </div>
