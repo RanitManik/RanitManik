@@ -4,7 +4,7 @@
 
 <h3>A Tech Enthusiast from India</h3>
 
-- 👨‍💼 Former Frontend Developer **(Full time)** at [**Busiman**](https://github.com/Busiman-official).  
+<!-- - 👨‍💼 Former Frontend Developer **(Full time)** at [**Busiman**](https://github.com/Busiman-official). -->
 - 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).  
 - 📚 Proficient in **Full Stack Development**.  
 - 🌐 Visit my [**Portfolio**](https://me.5dev.in) to explore projects and achievements.
