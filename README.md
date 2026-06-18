@@ -7,7 +7,7 @@
 <!-- - 👨‍💼 Former Frontend Developer **(Full time)** at [**Busiman**](https://github.com/Busiman-official). -->
 - 🏫 B.Tech in Computer Science at [**CEMK**](https://cemkolaghat.in/) (Class of 2026).
 - 📚 Proficient in **Full Stack Development**.
-- 🚀 Currently building [**WebSandbox**](https://websandbox.dev).
+- 🚀 Currently building [**WebSandbox**](https://websandbox.online).
 - 🌐 Visit my [**Portfolio**](https://me.5dev.in) and [**Resume**](https://resume.5dev.in) to explore projects and achievements.
 - 📧 Reach me via [**Email**](mailto:ranit.manik@icloud.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
 - 📍 Based in **Mecheda, West Bengal, India**.  
